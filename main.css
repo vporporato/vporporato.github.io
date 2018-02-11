@@ -357,6 +357,9 @@ header{
     .introLeft{
         width:80%;
     }
+    .introRight{
+        width:80%;
+    }
     .photoslide{
         height:65%;
     }
@@ -532,7 +535,7 @@ header{
         font-size:12px;
     }
     #bluerect{
-        margin-top:-9%;
+        margin-top:-7%;
     }
     .bottomphotoinfo p {
         font-size:6px;
